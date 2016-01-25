@@ -1,5 +1,5 @@
 //The song "Brother John" with lyrics on LCD display and flashing LEDs
-//by Andrew Sue
+//by Andrew Sue for Arduino Uno WiFi XMAS Contest 2015
 #include <LiquidCrystal.h>       //include LCD libary
 LiquidCrystal lcd(12,11,5,4,3,2);//LCD Pins
 
